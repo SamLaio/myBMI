@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myBMI</string>
+    <string name="action_settings">Settings</string>
+    <string name="tgH">請輸入身高(公尺):</string>
+    <string name="tgW">請輸入體重(公斤):</string>
+    <string name="tgSubmit1">舊制</string>
+	<string name="tgSubmit2">新制</string>
+	<string name="tgHight">太重了</string>
+	<string name="tgCi">剛好</string>
+	<string name="tgDown">太輕了</string>
+	
+	<string name="tgStarvation">過於飢餓</string>
+	<string name="tgUnderweight">體重不足</string>
+	<string name="tgNormal">一般體重</string>
+	<string name="tgGood">理想體重</string>
+	<string name="tgOverweight">超重</string>
+	<string name="tgObese">嚴重超重</string>
+	<string name="tgMorbidlyObese">極度超重</string>
+
+	<string name="tgNoinset">資料不齊全哦</string>
+
+	<string name="tgMSave">存檔</string>
+	<string name="tgMOut">離開</string>
+	<string name="tgMAbout">關於</string>
+	
+	<string name="about_title">關於 myBMI</string>
+    <string name="about_msg">myBMI測試之作\n作者 Sam Laio\n\n f85122@gmail.com</string>
+    <string name="about_ok">確認</string>
+    <string name="about_burl">首頁</string>
+    <string name="about_url">http://www.phitech.com.tw/</string>
+</resources>

@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/tgMAbout" android:title="@string/tgMAbout"></item>
+    <item android:id="@+id/tgMOut" android:title="@string/tgMOut"></item>
+
+</menu>
